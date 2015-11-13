@@ -6,14 +6,14 @@ Sauce Labs is a platform for running your Selenium and Appium scripts in the clo
 
 To get started [signup for a Sauce Labs free trial](https://saucelabs.com/beta/signup?utm_source=vsip).
 
-The Sauce Labs Plugin for VSO allows users to easily authenticate on Sauce Labs as a part of the VSO build process. The plugin also allows users to launch Sauce Connect - a tunnel that allows customers to securely test pre-production apps. 
+The Sauce Labs Plugin for VSO allows users to easily authenticate on Sauce Labs as a part of the VSO build process. The plugin also allows users to launch Sauce Connect - a tunnel that allows customers to securely test pre-production apps behind firewalls. 
 
 ## Features
 
 Easily scale to speed up test cycles and boost capacity without the hassle of managing infrastructure. Run your Selenium and Appium scripts to test your desktop and mobile apps. 
 
 ### Get results faster
-After your tests are completed, Sauce Labs provides a full report of the run with metadata, Selenium and console logs, and a complete list of commands and responses.
+After your tests are completed, Sauce Labs provides a full report of the run with videos, screenshots, metadata, Selenium and console logs, and a complete list of commands and responses.
 
 ### Leverage existing tools
 Compatible with tests written in any language and framework. Use any test runner to run tests. Integrate your CI system to make automated testing a part of your build process.
